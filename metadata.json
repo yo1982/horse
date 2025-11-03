@@ -1,0 +1,5 @@
+{
+  "name": "Equestrian Center Manager",
+  "description": "An elegant web application for an equestrian center, allowing users to book accommodations for their horses, request training sessions, and order various services, with AI-powered confirmations and suggestions.",
+  "requestFramePermissions": []
+}
